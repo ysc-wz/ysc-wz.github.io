@@ -1,0 +1,34 @@
+{
+  "name": "基础表情",
+  "icon": "🎭",
+  "emojis": [
+    {
+      "name": "开心",
+      "url": "/emojis/basic/happy.png"
+    },
+    {
+      "name": "大笑",
+      "url": "/emojis/basic/laugh1.png"
+    },
+    {
+      "name": "害羞",
+      "url": "/emojis/basic/shy1.png"
+    },
+    {
+      "name": "比心",
+      "url": "/emojis/basic/love1.png"
+    },
+    {
+      "name": "生气",
+      "url": "/emojis/basic/angry1.png"
+    },
+    {
+      "name": "思考",
+      "url": "/emojis/basic/think1.png"
+    },
+    {
+      "name": "哭泣",
+      "url": "/emojis/basic/cry1.png"
+    }
+  ]
+} 
